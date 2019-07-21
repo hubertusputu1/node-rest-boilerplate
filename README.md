@@ -6,7 +6,7 @@ Boilerplate for REST API using nodejs, for my personal project. You need to crea
 
 ----
 
-    Yarn
-    Yarn Start
+    yarn
+    yarn Start
 ----
 **Author : Hubertus Putu**
