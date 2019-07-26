@@ -7,6 +7,13 @@ Boilerplate for REST API using nodejs, for my personal project. You need to crea
 ----
 
     yarn
-    yarn Start
+    yarn start
+----
+**Author : Hubertus Putu**
+=======
+**How To Run Test with Mocha and Chai**
+----
+
+    yarn test
 ----
 **Author : Hubertus Putu**
